@@ -45,5 +45,3 @@
 - **Educational Purpose Only:** This script is meant for educational purposes. Misuse of this tool for spamming or unauthorized email sending is strictly prohibited and may lead to legal consequences.
 - **App Password Required:** Ensure that you generate an app password in your Gmail account settings for this script to work.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
