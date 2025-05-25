@@ -1,6 +1,6 @@
 # EmailBomber
 
-![EmailBomber](https://scontent.fdac178-1.fna.fbcdn.net/v/t39.30808-6/474010287_601023285867089_3456624333383565357_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeH89rCnyamT_-X5Jud97ynZzLcFlrGnxg7MtwWWsafGDuT46Nxyl_d4p95NxC66-xN-DMO8HT2DMb-acxdGa1Xr&_nc_ohc=y5szHWDQl2kQ7kNvgH7cwn6&_nc_zt=23&_nc_ht=scontent.fdac178-1.fna&_nc_gid=A6tghOkqA_ddkKfrtHOyAzg&oh=00_AYCeajmYxE-LYbxkB7fZa1ri0WTw00q6lRQYFdTD7JiLnQ&oe=67900145)
+![EmailBomber](https://imgur.com/9WiGoHL.png)
 
 ## Overview
 **EmailBomber** is a Python-based script that allows you to send multiple emails in a loop using a Gmail SMTP server. This script includes basic email validation, secure password handling, and HTML-formatted email content. Designed for educational and testing purposes, this script demonstrates how to automate email sending via Python.
