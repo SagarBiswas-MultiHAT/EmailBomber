@@ -30,7 +30,7 @@
 ## Usage
 1. Run the script:
     ```bash
-    python email_bomber.py
+    python "Mail-Boombing_(can attach a HTML phishing link)--v1.2_(Faster).py"
     ```
 2. Follow the prompts to enter:
     - Your Gmail address
