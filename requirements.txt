@@ -1,0 +1,5 @@
+# Zero mandatory dependencies required. The core utility runs entirely on Python standard library (Python 3.8+).
+# Optional dependencies for enhanced CLI experience:
+python-dotenv>=1.0.0
+rich>=13.0.0
+

@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smtp-stress-bench"
+version = "1.0.0"
+authors = [
+  { name = "Sagar Biswas", email = "192402369+SagarBiswas-MultiHAT@users.noreply.github.com" },
+]
+description = "High-performance SMTP server load testing, stress benchmarking, and email delivery resilience verification CLI."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "GPL-3.0-or-later" }
+keywords = [
+  "smtp",
+  "email",
+  "load-testing",
+  "stress-testing",
+  "benchmarking",
+  "mail-server",
+  "postfix",
+  "mailpit",
+  "mailhog",
+  "devops",
+  "cli",
+  "performance",
+  "throughput"
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Intended Audience :: System Administrators",
+  "Topic :: Communications :: Email",
+  "Topic :: Software Development :: Testing :: Traffic Generation",
+  "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/SagarBiswas-MultiHAT/EmailBomber"
+"Bug Tracker" = "https://github.com/SagarBiswas-MultiHAT/EmailBomber/issues"
+
+[project.scripts]
+smtp-bench = "smtp_stress:main"
+
