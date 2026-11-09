@@ -11,6 +11,7 @@
   <a href="https://github.com/SagarBiswas-MultiHAT/EmailBomber/network/members"><img src="https://img.shields.io/github/forks/SagarBiswas-MultiHAT/EmailBomber?style=flat-square" alt="GitHub Forks"></a>
   <a href="https://github.com/SagarBiswas-MultiHAT/EmailBomber/issues"><img src="https://img.shields.io/github/issues/SagarBiswas-MultiHAT/EmailBomber?style=flat-square" alt="Issues"></a>
   <a href="https://github.com/SagarBiswas-MultiHAT/EmailBomber/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK"><img src="https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor SagarBiswas-MultiHAT on Polar.sh"></a>
 </p>
 
 ---
@@ -163,6 +164,14 @@ For full license terms, refer to the [LICENSE](LICENSE) file.
 This utility is developed strictly for authorized network resilience verification, system benchmarking, and development debugging. Testing servers without prior authorization from the infrastructure owner is strictly forbidden. The author assumes no liability for misuse. Please review [SECURITY.md](SECURITY.md) for our responsible testing policy.
 
 ---
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=flat-square&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=flat-square&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=flat-square&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ## Contributing and Community
 
